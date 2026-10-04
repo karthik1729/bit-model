@@ -1,0 +1,12 @@
+# virtualenv (6.9G: torch + cuda wheels)
+.venv/
+venv/
+
+# python
+__pycache__/
+*.py[cod]
+
+# local artifacts
+*.log
+transcript*.json
+baseline*.json
